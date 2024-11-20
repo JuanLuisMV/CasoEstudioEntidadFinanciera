@@ -77,5 +77,4 @@ public class Persona {
     } 
  
 } 
-//sebastian me la pela
-// lucho me la chupa
+
